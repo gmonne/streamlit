@@ -23,7 +23,4 @@ st.write("""
 ## Volume Price
 """)
 st.line_chart(tickerDf.Volume)
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
+
